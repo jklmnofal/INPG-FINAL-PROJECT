@@ -1,0 +1,31 @@
+.banner h2 {
+    color: #FFEA00;
+    background: #424146;
+    padding: 10px 60px 10px 20px;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    float: left;
+    position: absolute;
+    top: 170px;
+}
+.blog-left {
+    width: 48.5%;
+    margin-right: 2.6%;
+    float: left;
+}
+.blog {
+    background: #ffea00;
+    margin-bottom: 20px;
+}
+.blog-left h4 {
+    color: #000;
+    font-style: italic;
+    font-size: 1.4em;
+    padding: 10px 30px 0;
+}
+h4 {
+    margin-top: 30px;
+    top: 300px;
+}
+

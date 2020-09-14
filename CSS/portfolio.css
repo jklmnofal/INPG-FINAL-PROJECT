@@ -1,0 +1,41 @@
+.banner h2 {
+    color: #FFEA00;
+    background: #424146;
+    padding: 10px 60px 10px 20px;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    float: left;
+    position: absolute;
+    top: 170px;
+}
+.nav {
+    text-align: center;
+    font-size: 2em;
+    color: #424147;
+    font-weight: 600;
+    font-family: "Century Gothic";
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.filter{
+    background: #ffea00;
+    color: #000;
+    font-size: 50px;
+}
+.active {
+    background: #ffea00;
+    color: #000;
+}
+.filter {
+    background: #ffea00;
+    color: #000;
+}
+.filters {
+    display: block;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #666;
+    cursor: pointer;
+    font-size: 1.5em;
+}
